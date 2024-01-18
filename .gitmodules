@@ -1,0 +1,3 @@
+[submodule "lib/Single_linked_list"]
+	path = lib/Vec_vector_implementation
+	url = git@github.com:Aram-Vn/Vec_vector_implementation.git
